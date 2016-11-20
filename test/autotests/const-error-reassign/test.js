@@ -1,0 +1,1 @@
+exports.checkError = function(error) {};

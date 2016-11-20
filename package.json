@@ -1,0 +1,35 @@
+{
+  "name": "marko-taglib-let-const",
+  "version": "1.0.0",
+  "description": "An unofficial taglib for Marko.js which adds `<let>` and `<const>` tags.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hesulan/marko-taglib-let-const.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "marko",
+    "Marko.js",
+    "template",
+    "taglib",
+    "marko-taglib",
+    "es6",
+    "es2015",
+    "let",
+    "const"
+  ],
+  "author": "Ethan Marmaduke <ethanmarmaduke@outlook.com>",
+  "maintainers": [
+    "Ethan Marmaduke <ethanmarmaduke@outlook.com>"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "marko": "^3.0.0 || ^4.0.0",
+    "mocha": "^3.1.2"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
